@@ -1,0 +1,35 @@
+# Eclipse
+build/
+target/
+.classpath
+.project
+.settings
+
+# Intellij
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Mac
+.DS_Store
+
+# Window
+desktop.ini
+*~
+
+# Maven
+log/
+target/
+
+# Scala
+/**/bin/
+*.class
+*.log
+*.bak
+
+# SVN
+/**/.svn/
+
+
+
